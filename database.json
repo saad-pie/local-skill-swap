@@ -47,6 +47,14 @@
       "offeredBy": "Frank G.",
       "lookingFor": "Cooking lessons (any cuisine) or drawing fundamentals",
       "image": "https://picsum.photos/400/300?random=6"
+    },
+    {
+      "id": 7,
+      "title": "Introduction to Calligraphy",
+      "description": "Learn the fundamental strokes and techniques for modern calligraphy, creating beautiful hand-lettered pieces.",
+      "offeredBy": "Sophia K.",
+      "lookingFor": "Creative writing feedback or photography basics",
+      "image": "https://picsum.photos/400/300?random=7"
     }
   ]
 }
