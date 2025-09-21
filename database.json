@@ -1,0 +1,52 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "title": "Baking Sourdough Bread",
+      "description": "Learn the art of sourdough from starter maintenance to baking a perfect loaf. Hands-on session, including recipe and tips.",
+      "offeredBy": "Alice M.",
+      "lookingFor": "Gardening tips or basic guitar lessons",
+      "image": "https://picsum.photos/400/300?random=1"
+    },
+    {
+      "id": 2,
+      "title": "Introduction to Python Programming",
+      "description": "A beginner-friendly session covering Python basics, variables, loops, functions, and a small project.",
+      "offeredBy": "Bob J.",
+      "lookingFor": "Yoga instruction or help with bicycle repair",
+      "image": "https://picsum.photos/400/300?random=2"
+    },
+    {
+      "id": 3,
+      "title": "Gardening Basics & Plant Care",
+      "description": "Tips for starting a small garden, soil preparation, watering techniques, and identifying common plant issues.",
+      "offeredBy": "Carol S.",
+      "lookingFor": "Coffee brewing techniques or knitting lessons",
+      "image": "https://picsum.photos/400/300?random=3"
+    },
+    {
+      "id": 4,
+      "title": "Beginner Guitar Chords & Strumming",
+      "description": "Learn essential open chords, basic strumming patterns, and how to play a few simple songs to get started.",
+      "offeredBy": "David L.",
+      "lookingFor": "Photography lessons or help with website design",
+      "image": "https://picsum.photos/400/300?random=4"
+    },
+    {
+      "id": 5,
+      "title": "Knitting a Scarf for Beginners",
+      "description": "Learn the basic knit and purl stitches, how to cast on and bind off, and create your first simple scarf.",
+      "offeredBy": "Emily R.",
+      "lookingFor": "Spanish conversation practice or woodworking basics",
+      "image": "https://picsum.photos/400/300?random=5"
+    },
+    {
+      "id": 6,
+      "title": "Basic Bicycle Maintenance",
+      "description": "Hands-on workshop covering tire changes, brake adjustments, chain lubrication, and general bike care.",
+      "offeredBy": "Frank G.",
+      "lookingFor": "Cooking lessons (any cuisine) or drawing fundamentals",
+      "image": "https://picsum.photos/400/300?random=6"
+    }
+  ]
+}
